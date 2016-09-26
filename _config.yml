@@ -71,3 +71,4 @@ deploy:
   type: git
   repository: https://github.com/CuiJY/CuiJY.github.io.git
   branch: master
+  plugins: -hexo-generator-feed 
